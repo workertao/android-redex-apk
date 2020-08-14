@@ -1,9 +1,9 @@
 #签名地址（你的签名地址）
-keyPath=/Users/a/Desktop/code/bjxRecruit/app/bjx_talents.jks
+keyPath=你的key地址
 #要签名的apk（可不动）
 signApk=redex-unsign-output.apk
 #签名密码（你的签名密码）
-keyPwd=********
+keyPwd=你的key密码
 #版本号（可不动）
 version=222
 #文件名（可不动）
