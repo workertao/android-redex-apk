@@ -1,18 +1,18 @@
-#签名地址
+#签名地址（你的签名地址）
 keyPath=/Users/a/Desktop/code/bjxRecruit/app/bjx_talents.jks
-#要签名的apk
+#要签名的apk（可不动）
 signApk=redex-unsign-output.apk
-#签名密码
+#签名密码（你的签名密码）
 keyPwd=bjx.com.cn
-#版本号
+#版本号（可不动）
 version=222
-#文件名
+#文件名（可不动）
 dirName=redexsign
 #redex and sign file
 redexAndSignFile=/Users/a/Desktop/$dirName$version
-#设置本地数组 用来校验渠道
+#设置本地数组 用来校验渠道（你的渠道数据）
 channleArray=("baidu" "oppo" "tencent" "qh360" "mi" "meizu" "vivo" "huawei" "samsung" "others" "sougou" "ali" "dev")
-#项目路径
+#项目路径（你的项目地址）
 apkpath=/Users/a/Desktop/code/bjxRecruit/app
 #cd
 cd $apkpath
