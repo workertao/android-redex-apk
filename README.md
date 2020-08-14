@@ -25,5 +25,7 @@ redex完的apk是没有签名的，手动签名
 
 11，添加签名：jarsigner -verbose -keystore keystore文件路径 -signedjar 签名后生成的apk路径 待签名的apk路径 别名
 
-# shell批量redex和签名
+## shell批量redex和签名
 
+``bash redexapk.sh
+``
