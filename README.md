@@ -4,7 +4,7 @@
 
 本事例仅支持mac os，windows的同学请忽略！windows点这：https://fbredex.com/docs/installation
 
-redex是Facebook开源的工具，通过对字节码进行优化，以减小Android Apk 大小，同时提高 App启动速度，activity的页面跳转速度。好是好，只是在多渠道打包的时候就费劲了，需要手动对每个渠道的apk进行redex命令，一切都是为了省事才有了这个脚本，下边是redex的安装和使用事例，
+redex是Facebook开源的工具，通过对字节码进行优化，以减小Android Apk 大小，同时提高 App启动速度，activity的页面跳转速度。好是好，只是在多渠道打包的时候就费劲了，需要手动对每个渠道的apk进行redex命令，一切都是为了省事才有了这个脚本，下边是redex的安装和使用事例
 
 ## mac redex安装使用
 
